@@ -41,6 +41,12 @@ Software of Mac
     	<td>★★★★</td>
     </tr>
     <tr>
+    	<td>iTerm 2</td>
+    	<td><a href="http://www.iterm2.com/">http://www.iterm2.com/</a></td>
+    	<td>是</td>
+    	<td>★★★★</td>
+    </tr>
+    <tr>
     	<td>Knock</td>
     	<td><a href="http://www.knocktounlock.com/">http://www.knocktounlock.com/</a></td>
     	<td>否</td>
