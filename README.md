@@ -77,3 +77,6 @@ Software of Mac
     	<td>★★★</td>
     </tr>
 </table>
+
+<br>
+个人常用软件，一些烂大街的比如 Chrome、Sublime Text 什么的就不写了，评级源自于个人主观感受，仅代表个人观点。
