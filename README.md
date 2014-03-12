@@ -11,6 +11,12 @@ Software of Mac
         <th>评级</th>
     </tr>
     <tr>
+    	<td>Bartender</td>
+    	<td><a href="http://www.macbartender.com/">http://www.macbartender.com/</a></td>
+    	<td>否</td>
+    	<td>★★★★</td>
+    </tr>
+    <tr>
     	<td>CleanMyMac 2</td>
     	<td><a href="http://macpaw.com/cleanmymac/">http://macpaw.com/cleanmymac/</a></td>
     	<td>否</td>
@@ -19,6 +25,12 @@ Software of Mac
     <tr>
     	<td>ClipMenu</td>
     	<td><a href="http://www.clipmenu.com/">http://www.clipmenu.com/</a></td>
+    	<td>是</td>
+    	<td>★★★★</td>
+    </tr>
+    <tr>
+    	<td>Dash</td>
+    	<td><a href="http://kapeli.com/dash">http://kapeli.com/dash</a></td>
     	<td>是</td>
     	<td>★★★★</td>
     </tr>
@@ -63,6 +75,12 @@ Software of Mac
     	<td><a href="http://www.parallels.com/">http://www.parallels.com/</a></td>
     	<td>否</td>
     	<td>★★★★★</td>
+    </tr>
+    <tr>
+    	<td>Promotee</td>
+    	<td><a href="http://www.netwalkapps.com/app/promotee">http://www.netwalkapps.com/app/promotee</a></td>
+    	<td>否</td>
+    	<td>★★★★</d>
     </tr>
     <tr>
     	<td>Scroll Reverser</td>
